@@ -1,4 +1,6 @@
-password grader : udacity
+password grader user login : udacity
+
+password grader sudo : grader0000
 
 private key :
 -----BEGIN RSA PRIVATE KEY-----
