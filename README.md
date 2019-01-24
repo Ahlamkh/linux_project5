@@ -8,6 +8,7 @@ IP Address : 54.93.123.163
 Host Name  : ec2-54-93-123-163.eu-central-1.compute.amazonaws.com
 
 password grader user login : udacity
+
 password grader sudo : grader0000
 
 # Prerequisites
