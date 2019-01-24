@@ -7,6 +7,9 @@ This is a project for Udacity full stack web developer
 IP Address : 54.93.123.163
 Host Name  : ec2-54-93-123-163.eu-central-1.compute.amazonaws.com
 
+password grader user login : udacity
+password grader sudo : grader0000
+
 # Prerequisites
 - Amazon Lightsail Server Set Up :
 1- Use this link to help you open amazon lightsail account : https://lightsail.aws.amazon.com/  
